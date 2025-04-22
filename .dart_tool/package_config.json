@@ -98,10 +98,22 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "nested",
+      "rootUri": "file:///C:/Users/Alunos/AppData/Local/Pub/Cache/hosted/pub.dev/nested-1.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "path",
       "rootUri": "file:///C:/Users/Alunos/AppData/Local/Pub/Cache/hosted/pub.dev/path-1.9.1",
       "packageUri": "lib/",
       "languageVersion": "3.4"
+    },
+    {
+      "name": "provider",
+      "rootUri": "file:///C:/Users/Alunos/AppData/Local/Pub/Cache/hosted/pub.dev/provider-6.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
     },
     {
       "name": "sky_engine",
@@ -158,16 +170,16 @@
       "languageVersion": "3.3"
     },
     {
-      "name": "provider",
+      "name": "contador_provider",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.7"
     }
   ],
-  "generated": "2025-04-22T22:34:41.982973Z",
+  "generated": "2025-04-22T23:24:34.392139Z",
   "generator": "pub",
-  "generatorVersion": "3.7.0",
+  "generatorVersion": "3.7.2",
   "flutterRoot": "file:///C:/flutter/flutter",
-  "flutterVersion": "3.29.0",
+  "flutterVersion": "3.29.3",
   "pubCache": "file:///C:/Users/Alunos/AppData/Local/Pub/Cache"
 }
